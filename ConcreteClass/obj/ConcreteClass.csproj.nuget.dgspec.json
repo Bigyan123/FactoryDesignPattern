@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\ConcreteClass\\ConcreteClass.csproj": {}
+  },
+  "projects": {
+    "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\ConcreteClass\\ConcreteClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\ConcreteClass\\ConcreteClass.csproj",
+        "projectName": "ConcreteClass",
+        "projectPath": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\ConcreteClass\\ConcreteClass.csproj",
+        "packagesPath": "C:\\Users\\bingyan.sahoo\\.nuget\\packages\\",
+        "outputPath": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\ConcreteClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bingyan.sahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\PrintInterface\\PrintInterface.csproj": {
+                "projectPath": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\PrintInterface\\PrintInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\PrintInterface\\PrintInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\PrintInterface\\PrintInterface.csproj",
+        "projectName": "PrintInterface",
+        "projectPath": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\PrintInterface\\PrintInterface.csproj",
+        "packagesPath": "C:\\Users\\bingyan.sahoo\\.nuget\\packages\\",
+        "outputPath": "D:\\BigyanSahoo\\DevApps\\Tutorials\\FactoryPattern\\PrintInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bingyan.sahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
